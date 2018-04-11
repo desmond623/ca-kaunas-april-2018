@@ -1,0 +1,9 @@
+{
+    "Version": [0, 1, 2, 4],
+    "VersionText": "0.1.2",
+    "UpdateFeed": {
+        "Type": "Standard",
+        "Platform": "Windows",
+        "URL": "http://openspades.yvt.jp/api/version.gamejolt.json"
+    }
+}

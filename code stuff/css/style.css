@@ -1,0 +1,51 @@
+.flex-container {
+    display: flex;
+    background-color: red;
+  }
+  
+  .flex-container > div {
+    background-color: rebeccapurple;
+    margin: 20px;
+    padding: 20px;
+    font-size: 30px;
+    width: 260px;
+  }
+
+
+  .boi{
+      font-size: 14px;
+  }
+  .title{
+      font-size: 27px;
+      margin: 0px;
+      padding: 0px;
+  }
+
+  .das1{
+      background-color: rebeccapurple;
+  }
+
+  .das1:hover{
+      background-color: seagreen;
+  }
+
+  .das2{
+    background-color: rebeccapurple
+  }
+
+  .das2:hover{
+      background-color: skyblue;
+  }
+
+  #das3{
+      background-color: slateblue;
+  }
+
+  #das3:hover{
+      background-color: red;
+  }
+
+
+  fu.jpg{
+      width: 100px;
+  }

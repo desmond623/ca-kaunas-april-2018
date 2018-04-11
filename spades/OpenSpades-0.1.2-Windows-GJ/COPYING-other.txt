@@ -1,0 +1,30 @@
+
+* Not all files contained in
+  pak000-Nonfree.pak are licensed under GPL or any other open-source
+  license. Redistribution of this package apart from OpenSpades
+  official distribution is disallowed.
+
+* pak000-Nonfree.pak includes game assets from Ben Aksoy's original Ace of Spades 0.75 beta.
+
+* FreeType 2.7 is included as a part of openspades.exe. Licensed under GPLv3 license.
+  Copyright 2006-2016 by
+David Turner, Robert Wilhelm, and Werner Lemberg.
+
+* YSRSpades.dll is covered under the following Copyright:
+  Copyright (C) 2014 yvt.jp, all rights reserved.
+
+* libpng16-16.dll is covered by libpng license.
+
+* libogg-0.dll, libopus-0.dll, and libopusfile-0.dll is covered by BSD license. (C) the Xiph.Org Foundation
+
+* zlib1.dll, SDL2.dll, and SDL2_image.dll are covered by zlib license.
+
+* libcurl.dll is covered by MIT license.
+
+* libgcc_s_dw2-1.dll, libgcc_s_sjlj-1.dll and libstdc++-6.dll are covered by GPLv3.
+
+* msvcp140.dll and vcruntime140.dll, which are part of Microsoft products,
+  are redistributed according to Microsoft Software License Terms.
+
+* pthreadGC2.dll is covered by LGPL v2.1.
+

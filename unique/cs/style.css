@@ -1,0 +1,53 @@
+.container{
+    width: 760px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    margin-top: 50px;
+    background: aqua;
+    border: 1px solid #ddd;
+}
+
+body{
+    background-image: url("../img/mycv.jpg")
+}
+
+
+.txt-field,
+ .sfield{
+    display: block;
+}
+
+
+.btn{
+margin-top:15px;
+padding: 25px 10px;
+background-color: chocolate;
+font-size: 20px;
+border: 10px;
+border-color: chartreuse solid;
+}
+
+
+.btn:hover {
+    margin-top:15px;
+    padding: 25px 10px;
+    background-color: rgb(255, 0, 0);
+    font-size: 20px;
+    border: 10px;
+    border-color: rgb(9, 28, 201) solid;
+    -webkit-transition: 2s;
+transition: 2s;
+}
+
+.txt-field:focus{
+    border: 1px solid goldenrod;
+    background-color: gold;
+    -webkit-transition: 2s;
+    transition: 2s;
+}
+
+.txt-field{
+    border: 1px solid green;
+    background-color: rgb(2, 175, 69);
+}
