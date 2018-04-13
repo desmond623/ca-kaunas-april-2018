@@ -1,0 +1,14 @@
+body{
+    background-image: url(../img/hip-square.png);
+}
+
+
+
+.brugh{
+    background-color: rgba(170, 255, 0, 0.425);
+    margin-top: 40px;
+    padding-top:40px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+
