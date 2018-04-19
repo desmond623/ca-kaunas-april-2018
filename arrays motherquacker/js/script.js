@@ -1,6 +1,14 @@
 
 let cities = [];
 
+let cities_list_string = localStorage = localStorage.getItem("cities");
+
+let cities_stored = JSON.parse(cities_list_string);
+console.log(cities_stored);
+
+if(cities_stored != null){
+  cities_stored == cities
+}
 
 
 
@@ -33,4 +41,12 @@ for(let i = 0;  i < cities.length; i++){
   
 }
 document.getElementById("result").innerHTML = h;
-};
+
+cities.push(city);
+    
+    console.log(cities);
+
+    let cities_string = JSON.stringify(cities);
+    localStorage.setItem("cities", cities_string);
+
+}
