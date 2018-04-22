@@ -1,0 +1,2 @@
+each letter has to have its own catagory of skill with dropdown windows and a mesure of skill with tests
+i noticed that bootstrap colum fits perfectly with the entire idea so col-12 is from the very left to the very right , and damn thats so right

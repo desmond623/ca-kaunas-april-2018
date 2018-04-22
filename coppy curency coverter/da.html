@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>converter</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4"
+        crossorigin="anonymous">
+</head>
+
+<body>
+<br>
+<br>
+    <div class="container">
+        <div class="row">
+            <div class="col-4 offset-3">
+                <H1>da converter</H1>
+                <form name="converter">
+                    <table border="0">
+                        <tr>
+                            <td>Euro: </td>
+                            <td>
+                                <input type="text" name="euro" onChange="euroConverter()" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>US Dollar: </td>
+                            <td>
+                                <input type="text" name="dollar" onChange="dollarConverter()" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>British Pound:</td>
+                            <td>
+                                <input type="text" name="pound" onChange="poundConverter()" />
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td colspan="2" align="center">
+                                <input type="button" value="Convert" />
+                            </td>
+                        </tr>
+                    </table>
+                </form>
+                <script src="script.js"></script>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+</body>
+
+</html>
